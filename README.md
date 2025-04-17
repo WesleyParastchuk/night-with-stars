@@ -1,6 +1,6 @@
 # 🌌 Night With Stars - Next.js + TypeScript + TailwindCSS
 
-Projeto minimalista desenvolvido com **Next.js**, **TypeScript** e **TailwindCSS**, que renderiza uma interface representando uma noite estrelada. Ideal para fins educacionais, demonstração de stack ou testes de UI com estilização responsiva.
+Projeto minimalista desenvolvido com **Next.js**, **TypeScript** e **TailwindCSS**, que renderiza uma interface representando uma noite estrelada. Ideal para fins educacionais, demonstração de stack ou testes de UI com estilização responsiva. Um presente simples.
 
 ## ⚙️ Stack Tecnológica
 
